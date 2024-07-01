@@ -1,0 +1,10 @@
+    2022/
+      trip_data_2022_01.parquet
+      trip_data_2022_02.parquet
+      ...
+      trip_data_2022_12.parquet
+    2023/
+      trip_data_2023_01.parquet
+      trip_data_2023_02.parquet
+      ...
+      trip_data_2023_12.parquet
