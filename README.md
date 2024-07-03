@@ -2,6 +2,10 @@
 
 This project outlines the steps needed to build a comprehensive data engineering pipeline using NYC taxi data from the years 2022 and 2023. This pipeline involves extracting, transforming and loading (ETL) data into a Snowflake database, followed by creating a dashboard for visualisation. The goal is to consolidate, clean, transform and store large volumes of taxi trip data in a Snowflake database and create a dashboard for visualising insights from the data.
 
+If you find this project useful, kindly consider giving it a star ⭐ on GitHub. 
+
+
+
 ## Project Setup
 
 1. **Clone the Repository:**
@@ -38,4 +42,4 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-For any inquiries or suggestions, please contact Nafisa Lawal Idris. If you find this project useful, kindly consider giving it a star ⭐ on GitHub. 
+For any inquiries or suggestions, please contact Nafisa Lawal Idris.
