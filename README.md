@@ -4,6 +4,8 @@ This project outlines the steps needed to build a comprehensive data engineering
 
 If you find this project useful, kindly consider giving it a star ⭐ on GitHub. 
 
+![alt text](<Snowflake Pipeline-1.png>)
+
 ## Project Setup
 
 1. **Clone the Repository:**
